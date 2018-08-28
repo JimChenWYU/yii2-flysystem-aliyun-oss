@@ -1,0 +1,13 @@
+{
+    "name": "jimchen/yii2-flysystem-aliyun-oss",
+    "description": "The Flysystem AliyunOss adapter for the Yii framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JimChen",
+            "email": "18219111672@163.com"
+        }
+    ],
+    "require": {}
+}
