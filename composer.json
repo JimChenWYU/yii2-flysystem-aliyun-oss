@@ -9,5 +9,14 @@
             "email": "18219111672@163.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "jimchen\\flysystem\\": "src/"
+        }
+    },
+    "require": {
+        "jimchen/yii2-flysystem-contract": "~1.0",
+        "jimchen/flysystem-aliyun-oss": "~1.0",
+        "yiisoft/yii2": "~2.0"
+    }
 }
