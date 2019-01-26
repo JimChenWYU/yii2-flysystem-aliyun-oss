@@ -1,17 +1,17 @@
 {
-    "name": "simon/yii2-flysystem-aliyun-oss",
+    "name": "simonxiaoma/yii2-flysystem-aliyun-oss",
     "description": "The Flysystem AliyunOss adapter for the Yii framework",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "simon",
+            "name": "simonxiaoma",
             "email": "1908291986@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "simon\\flysystem\\": "src/"
+            "simonxiaoma\\flysystem\\": "src/"
         }
     },
     "require": {
